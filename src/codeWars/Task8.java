@@ -12,7 +12,7 @@ import java.util.Arrays;
 
 public class Task8 {
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(arrayDiff(new int [] {1,2,2,3,1,3,2,3}, new int[] {1,3})));
+        System.out.println(Arrays.toString(arrayDiff(new int [] {1,2,2,3,1,3,2,3}, new int[] {1,2})));
     }
     public static int[] arrayDiff(int[] a, int[] b) {
         if (a.length == 0 || b.length == 0)
