@@ -1,6 +1,6 @@
 package src.codeWars;
 
-/**
+/*
  * Допишите решение так, чтобы оно возвращало true, если первый переданный аргумент (строка) заканчивается на 2-й аргумент (тоже строка).
  * solution("abc", "bc") // returns true
  * solution("abc", "d") // returns false
