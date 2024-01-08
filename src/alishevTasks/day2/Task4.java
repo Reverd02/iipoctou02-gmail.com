@@ -19,6 +19,6 @@ public class Task4 {
         else if (x > -3 && x < 5) {
             y = (x + 3) * (Math.pow(x,2) - 2);
         }
-        System.out.println(y);
+        System.out.println("y = " + y);
     }
 }
